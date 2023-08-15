@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "hostman_api",
+    "hostman_service",
+    "hostman_client",
+]

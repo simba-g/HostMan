@@ -1,0 +1,8 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./hostman_api/Cargo.toml",
+        "./hostman_client/Cargo.toml",
+        "./hostman_service/Cargo.toml"
+    ],
+    "rust-analyzer.showUnlinkedFileNotification": false
+}
